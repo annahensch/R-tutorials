@@ -6,7 +6,7 @@ If you are new to R & RStudio (the environment that makes R even more fun to use
 
 If you are wondering what Github is and how it works, I recommend reading this fantastic introduction by Bruna Wundervald & Jo Niec: https://brunaw.com/slides/git-workshop/git-workshop.html#1. 
 
-Happy you are here! 
+**HAPPY YOU ARE HERE!** 
 
 ![monster support](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/monster_support.jpg)
 
