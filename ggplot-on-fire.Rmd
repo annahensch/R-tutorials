@@ -1,0 +1,23 @@
+---
+author: "Anna Henschel"
+date: "21/09/2020"
+output: 
+  github_document:
+    fig_width: 10
+    fig_height: 5
+    dev: jpeg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Portrait of a ggplot on fire `r emo::ji("fire")`
+
+Load libraries
+```{r, message=FALSE}
+library(colorfindr) # extracts colors from images
+library(emo) # add emojis in RMarkdown documents
+library(tidyverse) # tidy data wrangling
+```
+
