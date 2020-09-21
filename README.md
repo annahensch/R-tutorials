@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! :bulb:
 
 Here I will be collecting some short & sweet R tutorials! Many of them will build on or remix material from our 2019 course ["Hack Your Data Beautiful"](https://psyteachr.github.io/hack-your-data/).  
 
@@ -8,4 +8,6 @@ If you are wondering what Github is and how it works, I recommend reading this f
 
 Happy you are here! 
 
-![bulb](https://pbs.twimg.com/media/EVIZRvPU0AAwgdH.jpg)
+![monster support](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/monster_support.jpg)
+
+Artwork by @allison_horst
