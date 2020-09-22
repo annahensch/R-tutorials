@@ -86,6 +86,19 @@ penguins %>%
 
 ![](ggplot-on-fire_files/figure-gfm/unnamed-chunk-6-1.jpeg)<!-- -->
 
+### Get inspired by the cool projects other folks did with colorfindr. 
+
+* [Kelly Cotton](https://twitter.com/kllycttn) built her on package of New York inspired color palettes: https://github.com/kellycotton/nycpalettes
+![](https://raw.githubusercontent.com/kellycotton/nycpalettes/master/man/figures/README-Sunset2-1.png)
+
+* [Ben Stanley](https://twitter.com/BDStanley) made a palette for Kieslowski's "Dekalog":https://twitter.com/BDStanley/status/1307605257019629570 
+![](https://pbs.twimg.com/media/EiWL5Y7WAAA_9Ee?format=png&name=4096x4096)
+
+### References. 
+Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.
+
+Zumbach, D. colorfindr. R package version 0.1.3. https://github.com/zumbov2/colorfindr.
+
 For more information on the colorfindr package, go to:
 <https://github.com/zumbov2/colorfindr>  
 For more information on Palmer Penguins, go to:
