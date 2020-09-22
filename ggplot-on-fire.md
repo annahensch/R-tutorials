@@ -37,7 +37,7 @@ get_colors("images/hemadramamaisexterieure4612433621.jpg") %>% # you can referen
 
 ![](ggplot-on-fire_files/figure-gfm/unnamed-chunk-3-1.jpeg)<!-- -->
 
-    ## [1] "#7EBDB5" "#CCD9BD" "#1D1512" "#682713" "#A7AF8A"
+    ## [1] "#7EBDB5" "#338791" "#CCD9BD" "#1D1512" "#714F34"
 
 You can play around with how many colors you extract - this will depend
 on what your data looks like. Do you want to show a few different
@@ -60,7 +60,7 @@ PLF<- get_colors("images/hemadramamaisexterieure4612433621.jpg") %>%
 
 ![](ggplot-on-fire_files/figure-gfm/unnamed-chunk-4-1.jpeg)<!-- -->
 
-### Step 3: Apply the new palette to a ggplot 📉
+### Step 3: Use your new palette
 
 From this:
 
@@ -74,7 +74,7 @@ penguins %>% # feed ggplot the data
 
 ![](ggplot-on-fire_files/figure-gfm/unnamed-chunk-5-1.jpeg)<!-- -->
 
-To this 🔥 ggplot 🔥:
+To this 🔥:
 
 ``` r
 penguins %>%
@@ -86,7 +86,7 @@ penguins %>%
 
 ![](ggplot-on-fire_files/figure-gfm/unnamed-chunk-6-1.jpeg)<!-- -->
 
-For more information on the package vignette, go to:
+For more information on the colorfindr package, go to:
 <https://github.com/zumbov2/colorfindr>  
 For more information on Palmer Penguins, go to:
 <https://github.com/allisonhorst/palmerpenguins>

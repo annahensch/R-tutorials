@@ -51,7 +51,7 @@ PLF<- get_colors("images/hemadramamaisexterieure4612433621.jpg") %>%
   make_palette(n = 3)
 ```
 
-### Step 3: Apply the new palette to a ggplot `r emo::ji("graph")`  
+### Step 3: Use your new palette
 
 From this:
 ```{r, warning=FALSE}
@@ -62,7 +62,7 @@ penguins %>% # feed ggplot the data
   theme_minimal() # pick a theme
 ```
 
-To this `r emo::ji("fire")` ggplot `r emo::ji("fire")`:
+To this `r emo::ji("fire")`:
 ```{r, warning=FALSE}
 penguins %>%
   ggplot(aes(flipper_length_mm, fill = species)) +
@@ -71,6 +71,5 @@ penguins %>%
   theme_minimal()
 ```
 
-For more information on the package vignette, go to: https://github.com/zumbov2/colorfindr  
+For more information on the colorfindr package, go to: https://github.com/zumbov2/colorfindr  
 For more information on Palmer Penguins, go to: https://github.com/allisonhorst/palmerpenguins  
-
