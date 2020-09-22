@@ -86,7 +86,7 @@ penguins %>%
 
 ![](ggplot-on-fire_files/figure-gfm/unnamed-chunk-6-1.jpeg)<!-- -->
 
-### Get inspired by the cool projects other folks did with colorfindr. 
+### Get inspired by the cool palettes other folks made with colorfindr
 
 * [Kelly Cotton](https://twitter.com/kllycttn) built her on package of New York inspired color palettes: https://github.com/kellycotton/nycpalettes
 ![](https://raw.githubusercontent.com/kellycotton/nycpalettes/master/man/figures/README-Sunset2-1.png)
