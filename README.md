@@ -6,7 +6,7 @@ Here I will be collecting some short & sweet R tutorials! Many of them will buil
 * If you are wondering what Github is and how it works, I recommend reading this fantastic introduction by Bruna Wundervald & Jo Niec: https://brunaw.com/slides/git-workshop/git-workshop.html#1. 
 * Let me know how you are getting on at [@AnnaHenschel](https://twitter.com/AnnaHenschel)
 
-**HAPPY YOU ARE HERE!** 
+**Click here for the color palettes tutorial: [Portrait of a ggplot on fire](https://github.com/annahensch/R-tutorials/blob/master/ggplot-on-fire.md)** 
 
 ![monster support](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/monster_support.jpg)
 
