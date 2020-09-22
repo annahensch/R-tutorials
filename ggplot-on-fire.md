@@ -88,10 +88,10 @@ penguins %>%
 
 ### Get inspired by the cool palettes other folks made with colorfindr
 
-* [Kelly Cotton](https://twitter.com/kllycttn) built her on package of New York inspired color palettes: https://github.com/kellycotton/nycpalettes
+[Kelly Cotton](https://twitter.com/kllycttn) built a new package of New York-inspired palettes: https://github.com/kellycotton/nycpalettes
 ![](https://raw.githubusercontent.com/kellycotton/nycpalettes/master/man/figures/README-Sunset2-1.png)
 
-* [Ben Stanley](https://twitter.com/BDStanley) made a palette for Kieslowski's "Dekalog":https://twitter.com/BDStanley/status/1307605257019629570 
+[Ben Stanley](https://twitter.com/BDStanley) made a palette for Kieslowski's "Dekalog":https://twitter.com/BDStanley/status/1307605257019629570 
 ![](https://pbs.twimg.com/media/EiWL5Y7WAAA_9Ee?format=png&name=4096x4096)
 
 ### References. 
