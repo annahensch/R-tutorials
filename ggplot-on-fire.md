@@ -9,10 +9,9 @@
 
 This is a short tutorial that will get you started with building your
 very own custom color palette with the {colorfindr} package by David
-Zumbach and Mara Averick, and implement it in a ggplot. For this we will
-be using the wonderful Palmer Penguins package by Allison Horst, Alison
-Hill, Hadley Wickham, Trang Le and Jannik Buhr. There are many, many
-color palettes already out there, but what I love about colorfindr is
+Zumbach, and implement it in a ggplot. For this we will
+be using the wonderful Palmer Penguins package by Allison Horst, Alison Hill and Kristen Gorman. 
+There are many, many color palettes already out there, but what I love about colorfindr is
 that it is 100% customizable. You can choose to extract however many
 colors you want and use any favorite film, TV show or art work as
 inspiration.
