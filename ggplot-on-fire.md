@@ -94,8 +94,8 @@ penguins %>%
 ![](https://pbs.twimg.com/media/EiWL5Y7WAAA_9Ee?format=png&name=4096x4096)
 
 [Lydia Hopper](https://twitter.com/LydiaMHopper) made a palette inspired by Japanese macaques: https://twitter.com/LydiaMHopper/status/1308403623592943616
-![](https://pbs.twimg.com/media/Eihh7cBX0AMhJKo?format=jpg&name=medium). 
+![](https://pbs.twimg.com/media/Eihh7cBX0AMhJKo?format=jpg&name=medium)
 
-### References. 
+### References.  
 * Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.  
 * Zumbach, D. colorfindr. R package version 0.1.3. https://github.com/zumbov2/colorfindr.  
