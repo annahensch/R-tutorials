@@ -96,13 +96,13 @@ penguins %>%
 [Lydia Hopper](https://twitter.com/LydiaMHopper) made a palette inspired by Japanese macaques: https://twitter.com/LydiaMHopper/status/1308403623592943616
 ![](https://pbs.twimg.com/media/Eihh7cBX0AMhJKo?format=jpg&name=medium)
 
-[Kaylea](https://twitter.com/KayleaHaynes) was inspired by #TidyTuesday and looked at reasons for expedition terminations: https://twitter.com/KayleaHaynes/status/1308799804357709825
+[Kaylea](https://twitter.com/KayleaHaynes) was inspired by #TidyTuesday and looked at reasons for expedition terminations: https://twitter.com/KayleaHaynes/status/1308799804357709825  
 ![](https://pbs.twimg.com/media/EinIs0ZXYAACvs1?format=jpg&name=4096x4096)  
 
-[John MacKintosh](https://twitter.com/_johnmackintosh) made his own "Metallicart" package with album covers of Metallica as inspiration: https://github.com/johnmackintosh/metallicaRt
+[John MacKintosh](https://twitter.com/_johnmackintosh) made his own "Metallicart" package with album covers of Metallica as inspiration: https://github.com/johnmackintosh/metallicaRt  
 ![](https://pbs.twimg.com/media/EinifjVWoAI2jgv?format=png&name=900x900)  
 
-[Kelly Morrow McCarthy](https://twitter.com/KellyMM_neuro) was inspired by an abstract photo: https://twitter.com/KellyMM_neuro/status/1308763829095063560
+[Kelly Morrow McCarthy](https://twitter.com/KellyMM_neuro) was inspired by an abstract photo: https://twitter.com/KellyMM_neuro/status/1308763829095063560  
 ![](https://pbs.twimg.com/media/Eimpk-HWAAMLjgJ?format=jpg&name=medium)  
 
 
